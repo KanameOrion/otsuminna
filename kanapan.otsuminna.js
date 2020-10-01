@@ -211,7 +211,7 @@ let appVer = "0.1";
                         </div>
                         <div class="row">
                             <div class="form-group col-md-12 text-center">
-                                <label>Roll title</label>
+                                <label>Font</label>
                                 <input class="form-control" id="font2" type="text" value="Indie Flower">
                                 <h2 id="sample1">Lorem ipsum dolor sit amet</h2>
                             </div>
