@@ -108,32 +108,39 @@ See top right of OtsuMinna interface, there is 2 buttons and number indicator. Y
 
 To access configuration, click cog icon button in top right OtsuMinna interface.
 
-### Show last chat
+#### Show last chat
 Show last chat of visitor.
 
-### Scroll duration (sec.)
+#### Scroll duration (sec.)
 Define staff-roll duration in sec.
 
-### Roll title size
+#### Roll title size
 Font size for roll title in pixel
 
-### Text name size
+#### Text name size
 Font size for viewer name in pixel
 
-### Last msg size
+#### Last msg size
 Font size for viewer last chat in pixel
 
-### Text color
+#### Text color
 Font color for viewer name and last chat in HEX code
 
-### Bg. color
+#### Bg. color
 Background color in HEX code
 
-### Roll title
+#### Roll title
 Define roll title, will appear before viewer names
 
-### Font
+#### Font
 You can select many font you like. These fonts is from Google Fonts.
+
+#### Reset Data
+OtsuMinna will save your data every new chat appear. It's save in browser localstorage. Click this button to delete OtsuMinna data.
+
+## Limitation
+
+OtsuMinna just grab common chat. It doesn't record data from special chat like super chat.
 
 ## Contribute
 
