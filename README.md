@@ -41,7 +41,13 @@ Then click **Add to Chrome** and **Add Extension** if Chrome ask to you.
 
 ![Add Tampermonkey to Chrome](https://i.postimg.cc/FzZQwvyn/Screenshot-35.jpg)
 
-Click the puzzle piece icon next to your chrome profile logo, click **Tampermonkey**.
+### Install OtsuMinna script
+
+[Click here](https://raw.githubusercontent.com/kanamephantasma/otsuminna/master/kanapan.otsuminna.user.js), Tampermonkey will detect automatically and give you a prompt. Click **Install** to begin install.
+
+### Install OtsuMinnta script (manually)
+
+If you have problem when install script (For example, Tampermonkey won't detect), click the puzzle piece icon next to your chrome profile logo, click **Tampermonkey**.
 
 ![Access Tampermonkey](https://i.postimg.cc/wM0jLLGv/Screenshot-1.jpg)
 
@@ -70,6 +76,8 @@ Then, paste this magic code to editor.
 
 // @resource     bootstrapCSS https://raw.githubusercontent.com/kanamephantasma/otsuminna/master/assets/bootstrap/bootstrap.min.css
 // @resource     jqueryFontPicker https://raw.githubusercontent.com/kanamephantasma/otsuminna/master/assets/fontpicker/jquery.fontpicker.min.css
+
+// @updateURL    https://raw.githubusercontent.com/kanamephantasma/otsuminna/master/kanapan.otsuminna.user.js
 
 // @grant        GM_addStyle
 // @grant        GM_getResourceText
