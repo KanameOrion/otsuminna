@@ -104,6 +104,10 @@ From here, OtsuMinna will record all visitor that chat in live chat, even if you
 
 See top right of OtsuMinna interface, there is 2 buttons and number indicator. You can play animation by pressing play icon button. To configure, click cog icon button.
 
+### Can I show it to livestream video?
+
+Yes yes yes you can. If you use OBS Studio, add **Window Capture** in sources panel, then select browser that OtsuMinna is running. You can crop by press **Alt* and drag the sources. Use **Chrome key** filter if you wan't to view text only.
+
 ## Configurations
 
 To access configuration, click cog icon button in top right OtsuMinna interface.
