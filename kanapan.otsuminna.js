@@ -1,4 +1,3 @@
-document.head.appendChild(cssElement(GM_getResourceURL("buttonCSS")));
 document.head.appendChild(cssElement(GM_getResourceURL("bootstrapCSS")));
 document.head.appendChild(cssElement(GM_getResourceURL("jqueryFontPicker")));
 
