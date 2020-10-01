@@ -45,7 +45,7 @@ Then click **Add to Chrome** and **Add Extension** if Chrome ask to you.
 
 [Click here](https://raw.githubusercontent.com/kanamephantasma/otsuminna/master/kanapan.otsuminna.user.js), Tampermonkey will detect automatically and give you a prompt. Click **Install** to begin install.
 
-### Install OtsuMinnta script (manually)
+### Install OtsuMinna script (manually)
 
 If you have problem when install script (For example, Tampermonkey won't detect), click the puzzle piece icon next to your chrome profile logo, click **Tampermonkey**.
 
